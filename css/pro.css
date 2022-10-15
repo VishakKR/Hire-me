@@ -89,16 +89,16 @@ p {
   .wrapper .button:nth-child(3) span{
     color: #E1306C;
   }
-/*.home{
+.home{
    height: 180vh;
    background-repeat: no-repeat;
  
    background-size: cover;
-  background-image: url(/apartments-animated-dribbler-bottom.gif);
+  background-image: url(css/hcdhj.gif);
 
   
 }
-*/
+
 .home .image img{
     width:20vw;
     animation: float 3s linear infinite;
