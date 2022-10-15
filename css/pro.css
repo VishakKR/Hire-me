@@ -94,7 +94,7 @@ p {
    background-repeat: no-repeat;
  
    background-size: cover;
-  background-image: url(css/hcdhj.gif);
+     background-image: url(/css/hcdhj.gif);
 
   
 }
@@ -1103,8 +1103,8 @@ footer p a:hover{
       
         background-size: cover;
         
-        background-color: #262626;
-        background-image: url(/apartments-animated-dribbler-bottom.gif);
+      
+           background-image: url(/css/hcdhj.gif);
      
        
      }
