@@ -89,7 +89,7 @@ p {
   .wrapper .button:nth-child(3) span{
     color: #E1306C;
   }
-.home{
+/*.home{
    height: 180vh;
    background-repeat: no-repeat;
  
@@ -97,7 +97,7 @@ p {
      background-image: url(/css/hcdhj.gif);
 
   
-}
+}*/
 
 .home .image img{
     width:20vw;
