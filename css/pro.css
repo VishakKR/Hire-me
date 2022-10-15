@@ -89,7 +89,7 @@ p {
   .wrapper .button:nth-child(3) span{
     color: #E1306C;
   }
-.home{
+/*.home{
    height: 180vh;
    background-repeat: no-repeat;
  
@@ -98,7 +98,7 @@ p {
 
   
 }
-
+*/
 .home .image img{
     width:20vw;
     animation: float 3s linear infinite;
