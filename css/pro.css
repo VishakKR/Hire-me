@@ -89,7 +89,7 @@ p {
   .wrapper .button:nth-child(3) span{
     color: #E1306C;
   }
-home{
+.main{
    height: 180vh;
    background-repeat: no-repeat;
  
@@ -1096,7 +1096,7 @@ footer p a:hover{
         font-size: 1.5rem;
         padding-left: 25px;
     }
-    .home{
+    .main{
         height: 100%;
         background-repeat: no-repeat;
       
