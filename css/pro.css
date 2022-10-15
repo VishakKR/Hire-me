@@ -89,12 +89,13 @@ p {
   .wrapper .button:nth-child(3) span{
     color: #E1306C;
   }
+
 .wsize1{
    height: 180vh;
    background-repeat: no-repeat;
  
    background-size: cover;
-     background-image: url(css/hcdhj.gif);
+     background-image: url(/css/hcdhj.gif);
 
 }
 
@@ -1103,7 +1104,7 @@ footer p a:hover{
         background-size: cover;
         
       
-           background-image: url(css/hcdhj.gif);
+           background-image: url(/css/hcdhj.gif);
      
        
      }
