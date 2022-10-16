@@ -90,7 +90,7 @@ p {
     color: #E1306C;
   }
 
-.wsize1{
+.home{
    height: 180vh;
    background-repeat: no-repeat;
  
@@ -1097,7 +1097,7 @@ footer p a:hover{
         font-size: 1.5rem;
         padding-left: 25px;
     }
-    .wsize1{
+    .home{
         height: 100%;
         background-repeat: no-repeat;
       
